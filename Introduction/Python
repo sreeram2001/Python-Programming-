@@ -1,0 +1,44 @@
+Python is a high-level, interpreted, and general-purpose dynamic programming language with a strong emphasis on readability.
+When compared to Java and C, it has fewer steps. Python is an interpreted high-level, general-purpose programming language.   
+The use of considerable indentation in its design philosophy emphasises code readability.
+Its language elements and object-oriented approach are aimed at assisting programmers in writing clear, logical code for both small and large-scale projects.
+
+
+Advantages : 
+Presence of third-party modules 
+Extensive support libraries(NumPy for numerical calculations, Pandas for data analytics etc) 
+Open source and community development 
+Versatile, Easy to read, learn and write
+User-friendly data structures 
+High-level language 
+Dynamically typed language(No need to mention data type based on the value assigned, it takes data type) 
+Object-oriented language 
+Portable and Interactive
+Ideal for prototypes – provide more functionality with less coding
+
+
+
+Applications : 
+GUI based desktop applications
+Graphic design, image processing applications, Games, and Scientific/ computational Applications
+Web frameworks and applications 
+ Enterprise and Business applications 
+ Operating Systems 
+Education
+Database Access
+Language Development 
+ Prototyping 
+Software Development
+
+
+
+Organizations using Python : 
+Google(Components of Google spider and Search Engine) 
+Yahoo(Maps) 
+YouTube 
+Mozilla 
+Dropbox 
+Microsoft 
+Cisco 
+Spotify 
+Quora
